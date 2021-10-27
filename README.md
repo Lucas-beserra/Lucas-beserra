@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# Here are some details about me:
+## Here are some details about me:
 
 
 - 😥 I’m currently unemployed;
