@@ -1,14 +1,14 @@
-# Hi there 👋
+# Hi there!
 
 ## Here are some details about me:
 
 
-- 😥 I’m currently unemployed;
+- 👋 Looking for my first job as a developer;
 - 🌱 I’m currently learning HTML, CSS and JavaScript;
 - 👯 I’m looking to collaborate on social impact projects;
 - 🤔 I’m looking for help with TypeScript and ReactJS;
-- 💬 Ask me about HTML, CSS, Git and JavaScript;
-- 🔎 How to reach me; lucasbeserra932@gmail.com;
+- 💬 Ask me about HTML, CSS, Git, JavaScript and React;
+- 🔎 How to reach me: lucasbeserra932@gmail.com;
 - 😄 Pronouns: Him/His;
 - ⚡ Fun fact: I really like to play the guitar.
 
