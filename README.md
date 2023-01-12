@@ -4,7 +4,7 @@
 
 
 - 👋 Looking for my first job as a developer;
-- 🌱 I’m currently learning HTML, CSS and JavaScript;
+- 🌱 I’m currently learning React, NodeJS, Tailwind;
 - 👯 I’m looking to collaborate on social impact projects;
 - 🤔 I’m looking for help with TypeScript and ReactJS;
 - 💬 Ask me about HTML, CSS, Git, JavaScript and React;
